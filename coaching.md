@@ -11,7 +11,7 @@ description: ""
 
 
 
-Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: **eltomex**  
+Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: **pedímelo por mail** 
 O podés mandarme un mail: **tomasalloatti@gmail.com**   
 
 
