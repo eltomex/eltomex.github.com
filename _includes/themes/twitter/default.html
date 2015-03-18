@@ -26,14 +26,19 @@
 
   <body>
 
-    <div class="topbar">
+`   <div class="topbar">
       <div class="fill">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
-            {% assign pages_list = site.pages %}
+		         <li><a href="/articles.html">Artículos</a></li>        
+        <li><a href="/frases.html">Frases Silver</a></li>
+        <li><a href="/coaching.html">Coaching</a></li>
+		<li><a href="/about.html">Información</a></li>
+         <!--   {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
+			original top bar-->
           </ul>
         </div>
       </div>
