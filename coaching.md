@@ -13,7 +13,7 @@ Coaching> **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por
 
 
 Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex
-O podés mandarme un mail: **info@tomexlol.com**   
+O podés mandarme un mail: **tomasalloatti@gmail.com**   
 <hr>
 
 Coacheo de manera individual o a equipos completos. También puedo coachear a duos ADC/Support.  
