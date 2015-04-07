@@ -16,12 +16,12 @@
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
+  <!-- Update these with your own images -->
+    <link rel="shortcut icon" href="images/thresh.jpg">
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
+
   </head>
 
   <body>
@@ -32,9 +32,9 @@
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
 		         <li><a href="/articles.html">Artículos</a></li>        
-        <li><a href="/frases.html">Frases Silver</a></li>
+       <!--  <li><a href="/frases.html">Frases Silver</a></li> -->
         <li><a href="/coaching.html">Coaching</a></li>
-		<li><a href="/about.html">Información</a></li>
+		<!-- <li><a href="/about.html">Información</a></li>
          <!--   {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
@@ -50,14 +50,14 @@
         {{ content }}
       </div>
 
-<!--COMMENT OUT THIS SHIET
+<!--COMMENT OUT THIS SHIET -->
       <footer>
-        <p>&copy; {{ site.author.name }} 2012 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        <p> {{ site.author.name }} +
+           <a href="http://jekyllbootstrap.com" target="_blank">Jekyll Bootstrap</a>
+          
         </p>
       </footer>
--->
+
     </div> <!-- /container -->
 
     {% include JB/analytics %}

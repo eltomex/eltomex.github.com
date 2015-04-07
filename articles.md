@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Articles"
+title: "Artículos"
 description: ""
 ---
 {% include JB/setup %}
 
 
-###1.[Planning the Lane Phase: an Introduction to Bot Lane Matchups](/articles/planning.html)  
+###>[Planning the Lane Phase: an Introduction to Bot Lane Matchups](/articles/planning.html)  
 
+###>[Planeando la Fase de Líneas: Introducción a los Matchups de Bot Lane](/articles/planeando.html)  
+<small> eugh escribir en español ):</small>  
 
-###2.[Pressing different kinds of advantages in the bottom lane](/articles/pressing.html)  
-
-
-###3.[Planeando la Fase de Líneas: Introducción a los Matchups de Bot Lane](/articles/planeando.html)  
+###>[Pressing different kinds of advantages in the bottom lane](/articles/pressing.html)  

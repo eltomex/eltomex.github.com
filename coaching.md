@@ -4,14 +4,15 @@ title: "Coaching"
 description: ""
 ---
 {% include JB/setup %}
-### **Equipos serios**: estoy buscando una posición de coach fija. Interesados email/Skype.  
+<!--### **Equipos serios**: estoy buscando una posición de coach fija. Interesados email/Skype.  -->
 <hr>
 
-*Precios*: **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por hora (US$20).   
+<b>Precios</b>  
+Coaching> **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por hora (US$20).   
+<small>Boosting> consultame por Skype </small>
 
 
-
-Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: **pedímelo por mail**   
+Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex
 O podés mandarme un mail: **tomasalloatti@gmail.com**   
 
 
@@ -21,7 +22,7 @@ Soy high elo (2k+, Diamond 1+, top Challenger 500pts) desde la Season 2. Jugué 
 Además tengo muchísimos partidos en divisiones bajas con más de 80% de winrate, sé exactamente cómo ganar y cómo mejorar.  
 No hay ningún requisito aparte de tener ganas de escuchar y aprender.  
 
-* **La primer hora es _gratis_, después de eso si te gustó podés comprar la cantidad de horas que quieras**  
+
 * Te voy a enseñar a endear partidos efectivamente desde cualquier rol y a subir de división. 
 * Te voy a dar tips para tus personajes favoritos y ayudarte a encontrar buenos champions que sean compatibles con tu estilo de juego.  
 * Puedo mirar tus partidas si dispones de BaronReplays, y decirte tus errores y cómo corregirlos.  
@@ -52,15 +53,14 @@ No hay ningún requisito aparte de tener ganas de escuchar y aprender.
 1. Matchups, cómo ganar el 1v1 con y contra los campeones tier 1.
 2. Leer a tu oponente para predecir ganks, y cómo no morir mil veces cuando el jungla del equipo contrario tiene la carpa en top  
 
-En caso de ser un equipo completo nos enfocaríamos más en la parte estrátegica del juego y el trabajo en equipo.  
-
+En caso de ser un equipo completo nos enfocaríamos más en la parte estrátegica del juego.  
 
 
  
 
 
 
-**Si te interesa algun otro trabajo relacionado con League of Legends <small>-eloboost-</small> no dudes en contactarte, seguro puedo ayudarte.**  
+**Si tenés alguna consulta <small>-eloboost-</small> no dudes en hablarme a Skype.**  
 <hr>
 
 

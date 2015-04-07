@@ -9,9 +9,8 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Tomex
-
 author :
-  name : Tomas Alloatti
+  name : Tomex
   email : tomasalloatti@gmail.com
   github : eltomex
   twitter : username
