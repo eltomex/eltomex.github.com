@@ -13,7 +13,7 @@ Coaching> **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por
 
 
 Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex
-O podés mandarme un mail: **tomasalloatti@gmail.com**   
+O podés mandarme un mail: **info@tomexlol.com**   
 
 
 Coacheo de manera individual o a equipos completos. También puedo coachear a duos ADC/Support.  
@@ -53,7 +53,7 @@ No hay ningún requisito aparte de tener ganas de escuchar y aprender.
 1. Matchups, cómo ganar el 1v1 con y contra los campeones tier 1.
 2. Leer a tu oponente para predecir ganks, y cómo no morir mil veces cuando el jungla del equipo contrario tiene la carpa en top  
 
-En caso de ser un equipo completo nos enfocaríamos más en la parte estrátegica del juego.  
+En caso de ser un equipo completo nos enfocaríamos más en la parte estrátegica del juego y el draft.  
 
 
  
