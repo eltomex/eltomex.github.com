@@ -60,7 +60,7 @@ En caso de ser un equipo completo nos enfocaríamos más en la parte estrátegic
 
 
 
-**Si tenés alguna consulta <small>-eloboost-</small> no dudes en hablarme a Skype.**  
+**Si tenés alguna consulta no dudes en hablarme a Skype.**  
 <hr>
 
 
