@@ -12,7 +12,7 @@ Coaching> **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por
 <small>Boosting> consultame por Skype </small>
 
 
-Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex
+Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex  
 O podés mandarme un mail: **tomasalloatti@gmail.com**   
 <hr>
 

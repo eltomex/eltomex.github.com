@@ -4,7 +4,7 @@ title: "Annie en low elo"
 description: ""
 ---
 {% include JB/setup %}
-
+<link rel="shortcut icon" href="/images/annie.png" type="images/x-icon" />
 Annie. 625 de rango, 0 skillshots, stuns, 4 segundos de cooldown en Q. El mejor champion del juego.  
 
 ###625 de rango!
