@@ -5,9 +5,9 @@ description: ""
 ---
 {% include JB/setup %}
 
-Annie. 650 de rango, 0 skillshots, stuns, 4 segundos de cooldown en Q. El mejor champion del juego.  
+Annie. 625 de rango, 0 skillshots, stuns, 4 segundos de cooldown en Q. El mejor champion del juego.  
 
-###650 de rango!
+###625 de rango!
 Si estás en silver y no estás usando 8.5 AD con Annie, estás jugando mal. 8.5 AD y jugar MEGA AGRESIVO en level 1 es el 50% de carrear el game. Ni lasthitees, anda corriendo y autoatacalo, tirale la q, cancela para adelante y correlo hasta la torre. Corre? Volvé a tu wave y hacelo de vuelta. Se te planta? Seguí tradeando, tenés 4 segundos de cooldown y runas de AD. Annie tiene EL MEJOR LEVEL 1 de todos los personajes de mid.  
 
 ###0 Skillshots!
