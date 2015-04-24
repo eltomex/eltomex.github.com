@@ -8,8 +8,9 @@ description: ""
 <hr>
 
 <b>Precios</b>  
-Coaching> **Individual y duo**: AR$100 por hora (US$10). **Equipos**: AR$200 por hora (US$20).   
-<small>Boosting> consultame por Skype </small>
+Coaching: >**Individual y duo**: AR$100 por hora (US$10). 4hs o más: $75/hr.  
+>**Equipos**: AR$200 por hora (US$20).   
+<small>Boosting: consultame por Skype </small>
 
 
 Si estás interesado o tenés alguna duda podés contactarte conmigo via Skype: eltomex  
