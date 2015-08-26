@@ -8,7 +8,7 @@ description: ""
 <hr>
 no estoy coacheando porque no tengo ni ganas de jugar al league of legends y no quiero estafar a nadie coacheandolo sin ganas. si realmente queres ser coacheado, lee el parrafo siguiente e ignora esto.  
 
-amigos mi nuevo precio de coaching es 100 dolares por hora  <!--
+amigos mi nuevo precio de coaching es 100 dolares por hora  
   
 
 
